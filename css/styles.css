@@ -83,7 +83,6 @@ img {
 }
 
 .navigation {
-    padding: 0 15px 0 15px;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -315,7 +314,6 @@ img {
     letter-spacing: 0.02em;
     line-height: 1.2;
     text-align: left;
-    margin-right: 76px;
     margin-bottom: 8px;
 }
 /* #endregion */
